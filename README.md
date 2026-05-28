@@ -1,4 +1,4 @@
-![myLogo](https://user-images.githubusercontent.com/62820717/107864559-31f27b00-6e3c-11eb-88a0-345efca2b684.png)
+![myLogo](https://github.com/user-attachments/assets/13fd1888-8f3c-451a-9474-61ddf89dde69)
 
 # 👋 Olá! Eu sou o Manoel Lucas
 
