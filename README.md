@@ -26,6 +26,6 @@
 
 ## 📫 Contato
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/manoel-reis/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/manoelreisdev/)
 - 📧 manoel.reis@acad.ifma.edu.br
 - ✍️ [Dev.to](https://dev.to/manoelreisdev)
