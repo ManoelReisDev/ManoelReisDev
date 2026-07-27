@@ -1,13 +1,16 @@
-![myLogo](https://github.com/user-attachments/assets/13fd1888-8f3c-451a-9474-61ddf89dde69)
+
+  <img
+    width="864"
+    height="197"
+    alt="image"
+    src="https://github.com/user-attachments/assets/9a309d7f-2f25-48c7-b86d-853462e955a2"
+  />
+
 
 # 👋 Olá! Eu sou o Manoel Lucas
 
 🎓 Estudante de Sistemas de Informação (6º período) no IFMA  
 👨‍🏫 Professor de Pensamento Computacional e Robótica para crianças  
-
-🎵 Música | 🏋️ Academia  
-
-🚀 Sempre buscando evoluir na área de desenvolvimento  
 
 ## 🚀 Tecnologias
 
