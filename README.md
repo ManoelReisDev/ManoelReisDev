@@ -1,4 +1,4 @@
-<img width="764" height="197" alt="image" src="https://github.com/user-attachments/assets/3abb2c95-4cab-456a-9a30-244e6076480a" />
+<img width="732" height="189" alt="image" src="https://github.com/user-attachments/assets/5075fae0-4539-4415-beb2-e98f88577c99" />
 
 # 👋 Olá! Eu sou o Manoel Lucas
 
